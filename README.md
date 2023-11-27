@@ -4,5 +4,6 @@ calculate simple interest
 <br><img width="593" alt="Screenshot 2023-11-27 at 11 05 52 PM" src="https://github.com/kwongliik/simpleinterest/assets/46083661/ece0470f-38fb-440d-9a6d-7eb879cad885">
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <br><br>
-<img width="593" alt="Screenshot 2023-11-27 at 11 05 52 PM" src="https://github.com/kwongliik/simpleinterest/assets/46083661/f0a8d897-e040-482e-970f-710e09f369f9">
+<img width="597" alt="Screenshot 2023-11-27 at 11 07 04 PM" src="https://github.com/kwongliik/simpleinterest/assets/46083661/5fa37353-9223-451d-aadd-45def6756a3e">
+
 
